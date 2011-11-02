@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<plugin>
+	<nom>Real Params</nom>
+ 	<version>1.0</version>
+ 	<prefix>realparams</prefix>
+	<type>classique</type>
+ 	<auteur>Scopika.com</auteur>
+ 	<thelia>1.5.0</thelia>
+ 	<description>
+        Les véritables paramètres de l'URL peuvent être occultés par la réécriture d'URL. 
+        Ce plugin recompose un tableau de paramètres
+	 	&lt;br/&gt; Création : &lt;a href="http://wwww.scopika.com" style="color:#FF0066"&gt;Agence Scopika&lt;/a&gt;
+ 	</description>
+	<documentation>Readme.txt</documentation>
+ 	<etat>production</etat>
+</plugin>

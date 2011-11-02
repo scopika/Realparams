@@ -1,0 +1,7 @@
+Les véritables paramètres de l'URL peuvent être occultés par la réécriture d'URL. 
+Ce plugin recompose un tableau de paramètres
+
+>> Installation
+Veuillez simplement glisser le répertoire bouclecouleur dans le dossier client/plugins/ de votre Thelia.
+
+>> Auteur : Cyril Batillat, Scopika
